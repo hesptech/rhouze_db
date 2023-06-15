@@ -1,0 +1,629 @@
+{
+    "page": 1,
+    "numPages": 1,
+    "pageSize": 62,
+    "count": 62,
+    "brokerages": [
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "12906",
+          "12901",
+          "12905",
+          "12900"
+        ],
+        "name": "CENTURY 21 MILLENNIUM INC."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "12901",
+          "12900",
+          "12906",
+          "12905",
+          "12907"
+        ],
+        "name": "CENTURY 21 MILLENNIUM INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "259300"
+        ],
+        "name": "CIREALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "259300"
+        ],
+        "name": "CIREALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "189800"
+        ],
+        "name": "COLDWELL BANKER NEUMANN REAL ESTATE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "631901"
+        ],
+        "name": "FOREST HILL REAL ESTATE INC."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "631901"
+        ],
+        "name": "FOREST HILL REAL ESTATE INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "303500",
+          "303501"
+        ],
+        "name": "HARVEY KALLES REAL ESTATE LTD."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "303500",
+          "303505",
+          "303501"
+        ],
+        "name": "HARVEY KALLES REAL ESTATE LTD., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "99000",
+          "99002"
+        ],
+        "name": "HOMELIFE FRONTIER REALTY INC."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "99000",
+          "99002"
+        ],
+        "name": "HOMELIFE FRONTIER REALTY INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "319800"
+        ],
+        "name": "JUSTO INC."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "101204",
+          "101203",
+          "101201",
+          "101200",
+          "101202"
+        ],
+        "name": "KELLER WILLIAMS REAL ESTATE ASSOCIATES"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "298400"
+        ],
+        "name": "KELLER WILLIAMS REAL ESTATE ASSOCIATES NORTH GROUP, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "101204",
+          "101203",
+          "101200",
+          "101201",
+          "101202"
+        ],
+        "name": "KELLER WILLIAMS REAL ESTATE ASSOCIATES, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "273900"
+        ],
+        "name": "KELLER WILLIAMS REAL ESTATE ASSOCIATES, LAROSE TEAM"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "273900"
+        ],
+        "name": "KELLER WILLIAMS REAL ESTATE ASSOCIATES, LAROSE TEAM, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "301200"
+        ],
+        "name": "KELLER WILLIAMS REAL ESTATE ASSOCIATES-BRADICA GROUP, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "223900",
+          "223903",
+          "223904"
+        ],
+        "name": "PROPERTY.CA INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "592602",
+          "592603",
+          "592600",
+          "592604"
+        ],
+        "name": "RE/MAX CONDOS PLUS CORPORATION, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "211500",
+          "211502"
+        ],
+        "name": "RE/MAX HALLMARK ALLIANCE REALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "211501",
+          "211500",
+          "211502"
+        ],
+        "name": "RE/MAX HALLMARK ALLIANCE REALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "283700"
+        ],
+        "name": "RE/MAX HALLMARK ARI ZADEGAN GROUP REALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "283700"
+        ],
+        "name": "RE/MAX HALLMARK ARI ZADEGAN GROUP REALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "72304",
+          "72300",
+          "72306",
+          "72302",
+          "72307"
+        ],
+        "name": "RE/MAX HALLMARK FIRST GROUP REALTY LTD."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "72304",
+          "72300",
+          "72302",
+          "72306",
+          "72307"
+        ],
+        "name": "RE/MAX HALLMARK FIRST GROUP REALTY LTD., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "255100"
+        ],
+        "name": "RE/MAX HALLMARK FRASER GROUP REALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "255100"
+        ],
+        "name": "RE/MAX HALLMARK FRASER GROUP REALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "259003",
+          "259011",
+          "259012",
+          "259010",
+          "259006",
+          "259005",
+          "259007"
+        ],
+        "name": "RE/MAX HALLMARK REALTY LTD."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "259003",
+          "259011",
+          "259005",
+          "259006",
+          "259007",
+          "259010",
+          "259012",
+          "211501"
+        ],
+        "name": "RE/MAX HALLMARK REALTY LTD., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "58300"
+        ],
+        "name": "RE/MAX HALLMARK YORK GROUP REALTY LTD."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "58300"
+        ],
+        "name": "RE/MAX HALLMARK YORK GROUP REALTY LTD., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "43900",
+          "43905",
+          "43910",
+          "43911"
+        ],
+        "name": "RE/MAX PREMIER INC."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "43905",
+          "43900",
+          "43911",
+          "43906"
+        ],
+        "name": "RE/MAX PREMIER INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "474000",
+          "474003"
+        ],
+        "name": "RE/MAX PROFESSIONALS INC."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "474003",
+          "474000"
+        ],
+        "name": "RE/MAX PROFESSIONALS INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "79802"
+        ],
+        "name": "RE/MAX REAL ESTATE CENTRE INC."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "79802"
+        ],
+        "name": "RE/MAX REAL ESTATE CENTRE INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "692801",
+          "692805",
+          "692800",
+          "692806",
+          "692807"
+        ],
+        "name": "RE/MAX REALTY ENTERPRISES INC."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "692801",
+          "692800",
+          "692805",
+          "692807",
+          "692802"
+        ],
+        "name": "RE/MAX REALTY ENTERPRISES INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "62200",
+          "62203",
+          "62223",
+          "62220",
+          "62215",
+          "62228",
+          "62207",
+          "62212",
+          "62221",
+          "62233",
+          "62229",
+          "62202",
+          "62226",
+          "62222",
+          "62210"
+        ],
+        "name": "RIGHT AT HOME REALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "62203",
+          "62200",
+          "62207",
+          "62220",
+          "62228",
+          "62223",
+          "62215",
+          "62212",
+          "62202",
+          "62210",
+          "62226",
+          "62222",
+          "62221",
+          "62225",
+          "62229",
+          "62219"
+        ],
+        "name": "RIGHT AT HOME REALTY INC., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "62222"
+        ],
+        "name": "RIGHT AT HOME REALTY,  BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "62200",
+          "62207",
+          "62203",
+          "62228",
+          "62215",
+          "62223",
+          "62220",
+          "62202",
+          "62233",
+          "62212",
+          "62229",
+          "62232",
+          "62226",
+          "62222",
+          "62221",
+          "62210"
+        ],
+        "name": "RIGHT AT HOME REALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "226902",
+          "226900",
+          "226904",
+          "226901"
+        ],
+        "name": "ROYAL HERITAGE REALTY LTD."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "226900",
+          "226901",
+          "226902",
+          "72300",
+          "226904"
+        ],
+        "name": "ROYAL HERITAGE REALTY LTD., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "45002",
+          "45003",
+          "45000"
+        ],
+        "name": "ROYAL LEPAGE ESTATE REALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "45002",
+          "45003",
+          "45000"
+        ],
+        "name": "ROYAL LEPAGE ESTATE REALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "62701",
+          "62704",
+          "62700",
+          "62703"
+        ],
+        "name": "ROYAL LEPAGE PREMIUM ONE REALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "62700",
+          "62703",
+          "62702",
+          "62705",
+          "62704",
+          "62701"
+        ],
+        "name": "ROYAL LEPAGE PREMIUM ONE REALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "519097",
+          "519013"
+        ],
+        "name": "ROYAL LEPAGE REAL ESTATE SERVICES LTD."
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "519052",
+          "519043",
+          "519004",
+          "519050",
+          "519027",
+          "519053",
+          "519097",
+          "519035",
+          "519013"
+        ],
+        "name": "ROYAL LEPAGE REAL ESTATE SERVICES LTD., BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "91300"
+        ],
+        "name": "ROYAL LEPAGE REALTY PLUS OAKVILLE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "91300"
+        ],
+        "name": "ROYAL LEPAGE REALTY PLUS OAKVILLE, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "572000",
+          "572002",
+          "572004",
+          "572001"
+        ],
+        "name": "ROYAL LEPAGE SIGNATURE REALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "572000",
+          "572001",
+          "572004",
+          "572002"
+        ],
+        "name": "ROYAL LEPAGE SIGNATURE REALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "87000",
+          "87005",
+          "87004",
+          "87008",
+          "87006",
+          "87013",
+          "87019",
+          "87002",
+          "87020",
+          "87017",
+          "87018"
+        ],
+        "name": "ROYAL LEPAGE YOUR COMMUNITY REALTY"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "87005",
+          "87000",
+          "87008",
+          "87013",
+          "87002",
+          "87010",
+          "87004",
+          "87006",
+          "87017",
+          "87018",
+          "87015",
+          "87020",
+          "87019"
+        ],
+        "name": "ROYAL LEPAGE YOUR COMMUNITY REALTY, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "519034"
+        ],
+        "name": "ROYAL LEPAGE/J & D DIVISION, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "118901",
+          "118900"
+        ],
+        "name": "SOTHEBY'S INTERNATIONAL REALTY CANADA, BROKERAGE"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "118912",
+          "118911",
+          "118900",
+          "118919",
+          "118909",
+          "118901",
+          "118910",
+          "118914",
+          "118913",
+          "118908",
+          "118918",
+          "118916"
+        ],
+        "name": "SOTHEBY`S INTERNATIONAL REALTY CANADA"
+      },
+      {
+        "resource": "Property:2381",
+        "offices": [
+          "118911",
+          "118912",
+          "118900",
+          "118901",
+          "118919",
+          "118909",
+          "118908",
+          "118907",
+          "118916",
+          "118915",
+          "118913"
+        ],
+        "name": "SOTHEBY`S INTERNATIONAL REALTY CANADA, BROKERAGE"
+      }
+    ]
+  }
