@@ -22,17 +22,19 @@ SET time_zone = "+00:00";
 --
 
 
-
 -- --------------------------------------------------------
 
 --
--- Struttura della tabella `access_users`
+-- Struttura della tabella `users`
 --
 
-CREATE TABLE `access_users` (
-  `id_access` int(11) NOT NULL,
-  `user` int(11) UNSIGNED NOT NULL,
-  `date_access` datetime NOT NULL,
+CREATE TABLE `users` (
+  `id_user` int(10) UNSIGNED NOT NULL,
+  `email` varchar(50) NOT NULL,
+  `username` varchar(20) NOT NULL,
+  `password` varchar(40) NOT NULL,
+  `code` int(4) NOT NULL,
+  `active` tinyint(1) NOT NULL DEFAULT 0,
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
@@ -173,23 +175,7 @@ CREATE TABLE `testimages` (
   `didascalia_diagnosi` text DEFAULT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
--- --------------------------------------------------------
 
---
--- Struttura della tabella `users`
---
-
-CREATE TABLE `users` (
-  `id_user` int(10) UNSIGNED NOT NULL,
-  `codice` int(10) UNSIGNED NOT NULL,
-  `nome` varchar(20) NOT NULL,
-  `cognome` varchar(20) NOT NULL,
-  `email` varchar(50) NOT NULL,
-  `username` varchar(20) NOT NULL,
-  `password` varchar(40) NOT NULL,
-  `active` tinyint(1) NOT NULL DEFAULT 1,
-  `pwd_date` date NOT NULL
-) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 -- --------------------------------------------------------
 
