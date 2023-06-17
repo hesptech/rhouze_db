@@ -24,7 +24,5 @@ CREATE TABLE favorites
 (
     id_favorite    int auto_increment PRIMARY KEY,
     id_user           int PRIMARY KEY,
-    mlsNumber         varchar(20)  NOT NULL,
-    guess_price       int(20),     NOT NULL,
-    expiryDate        datetime     NOT NULL,    
+    mlsNumber         varchar(20)  NOT NULL,    
 );
