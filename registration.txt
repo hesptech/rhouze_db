@@ -1,0 +1,35 @@
+1. APP: 
+in SIGN-UP screen
+
+2. APP: 
+sends login data (URL API request)
+name
+email
+password
+
+3. APP: 
+navigates to activation_code screen
+
+4. SERVER: 
+receives data
+creates user
+generates activation_code 
+does ***step 5.
+HASHES activation_code 
+inserts HASHED activation_code in user record 
+
+5. SERVER: 
+sends EMAIL to user with activation_code
+
+4. APP: 
+user inserts activation_code and sends it (URL POST API Call)
+
+5. SERVER: 
+receives API request with json activation_CODE
+HASHES activation code
+compares HASHED activation CODE with users generated inserted HASHED activation_code
+if equal sends API response json success : 1 
+
+6. APP:
+receives success respond
+in shared_preferences sets HASHED activation_code
