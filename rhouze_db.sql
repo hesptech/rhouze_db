@@ -17,7 +17,8 @@ CREATE TABLE `mls_guesses`
     `id_user`           int,
     `mlsNumber`         varchar(20)  NOT NULL,
     `guess_price`       int(20)     NOT NULL,
-    `expiryDate`        datetime     NOT NULL   
+    `expiryDate`        datetime     NOT NULL,
+    `notified`          tinyint(1)   DEFAULT 0
 );
 
 
