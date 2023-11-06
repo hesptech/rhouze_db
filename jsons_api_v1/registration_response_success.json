@@ -1,0 +1,11 @@
+{
+    "usuario": {
+        "rol": "USER_ROLE",
+        "estado": true,
+        "google": false,
+        "nombre": "sdasd",
+        "correo": "test99@test.com",
+        "uid": "6540da8011032963340f8131"
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2NTQwZGE4MDExMDMyOTYzMzQwZjgxMzEiLCJpYXQiOjE2OTg3NDkwNTYsImV4cCI6MTY5OTM1Mzg1Nn0.b0tJvgN4LtVP_jnv6Zzk54TvLPK7H2-FTnuUwoDTH5o"
+}

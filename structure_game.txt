@@ -1,0 +1,23 @@
+
+
+
+
+├── screens
+| └── game
+|   ├── game_welcome_screen.dart
+|   └── game_screen.dart
+|  
+└── module
+  └── game
+    |── game_status
+    |  ├── game_submit.dart
+    |  ├── game_submit_confirmation.dart
+    |  └── game_status_selected.dart
+    |
+    └── game_cards
+      ├── game_image_content.dart
+      ├── game_address_content.dart
+      └── game_price_box_contnent.dart
+
+
+

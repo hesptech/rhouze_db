@@ -1,0 +1,10 @@
+{
+    "errors": [
+        {
+            "value": "test01@test.com",
+            "msg": "El correo: test01@test.com, ya está registrado",
+            "param": "correo",
+            "location": "body"
+        }
+    ]
+}

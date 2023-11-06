@@ -1,0 +1,35 @@
+
+
+├── screens
+|  ├── account_change_password_screen.dart
+|  ├── account_delete_screen.dart
+|  |── account_screen.dart
+|  |── forgot_password_screen.dart
+|  |── register_finish_screen.dart
+|  |── register_pin_screen.dart
+|  |── register_screen.dart
+|  └── register_terms_use_screen.dart
+|
+└── module
+  |── account
+  |  ├── account_content.dart
+  |  ├── account_delete_content.dart
+  |  └── account_password_content.dart
+  |
+  └── authentication
+    ├── forgot_password_content.dart
+    ├── login_content.dart
+    ├── pin_verify_contnent.dart
+    ├── register_contnent.dart
+    ├── register_finish_contnent.dart
+    ├── register_terms_of_use_contnent.dart
+    |
+    └── widgets
+      └── steps_widgets.dart
+
+
+
+
+
+
+
